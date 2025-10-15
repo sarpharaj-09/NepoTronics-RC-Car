@@ -8,7 +8,7 @@ This project integrates **Arduino (or ESP-based)** control, **motor driver circu
 ## 📸 Project Overview
 
 <p align="center">
-  <img src="docs/circuit_diagram.jpg" alt="Circuit Diagram" width="600"/>
+  <img src="docs/thumbnail.jpeg" alt="Thumbnail" width="600"/>
 </p>
 
 The car receives movement commands from a smartphone via **Bluetooth (HC-05/HC-06)** and responds in real-time to drive **forward**, **backward**, **left**, **right**, and even diagonally using PWM motor speed control.
@@ -33,8 +33,10 @@ The car receives movement commands from a smartphone via **Bluetooth (HC-05/HC-0
 | **Microcontroller** | Arduino Nano (can be ported to ESP32) |
 | **Motor Driver** | L298N or L293D |
 | **Bluetooth Module** | HC-05 / HC-06 |
-| **Motors** | 2 × DC gear motors |
-| **Chassis** | 2-wheel or 4-wheel body |
+| **Motors** | 2 × DC motors |
+| **Wheel** | 4 × Wheels |
+| **Stering** | Single motor based |
+| **Drive System** | Rear wheel single motor geared based |
 | **Power Supply** | 9V or 12V Li-ion battery |
 | **LEDs** | Front and back indicators |
 | **Smartphone App** | Bluetooth RC Controller (APK provided) |
@@ -57,6 +59,10 @@ The car receives movement commands from a smartphone via **Bluetooth (HC-05/HC-0
 ---
 
 ## 🔌 Arduino Nano Pin Configuration
+
+<p align="center">
+  <img src="docs/circuit_diagram.jpg" alt="Circuit Diagram" width="600"/>
+</p>
 
 | Function | Pin | Description |
 |-----------|-----|-------------|
@@ -145,6 +151,10 @@ cd NepoTronics-RC-Car
 
 ## 📱 Mobile App (Bluetooth RC Controller)
 
+<p align="center">
+  <img src="docs/app_ui.jpg" alt="App UI" width="600"/>
+</p>
+
 Use the included Android application to control the car.
 
 📦 **APK File:**  
@@ -156,7 +166,13 @@ Use the included Android application to control the car.
 
 ## 📽️ Testing Video
 
+<p align="center">
+  <img src="docs/picture_inmotion" alt="Car in Action" width="600"/>
+</p>
+
 🎬 [Watch Testing Video](docs/testing_video.mp4)
+
+🎬 [Watch Full Video](https://youtu.be/lI9yIjI4Ih8?si=cfia8_hwaqZ9CWz-)
 
 ---
 
