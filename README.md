@@ -20,18 +20,18 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Hardware Components](#️-hardware-components)
-- [Installation & Setup](#-installation--setup)
-- [Project Structure](#-project-structure)
-- [Circuit Diagram](#-circuit-diagram)
-- [Code Implementation](#-code-implementation)
-- [Mobile App](#-mobile-app)
-- [Demo & Testing](#-demo--testing)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
+- 📖 [Overview](#-overview)
+- ✨ [Features](#-features)
+- 🛠️ [Hardware Components](#️-hardware-components)
+- 🔧 [Installation & Setup](#-installation--setup)
+- 📁 [Project Structure](#-project-structure)
+- 🔌 [Circuit Diagram](#-circuit-diagram)
+- 💻 [Code Implementation](#-code-implementation)
+- 📱 [Mobile App](#-mobile-app)
+- 🎯 [Demo & Testing](#-demo--testing)
+- 🤝 [Contributing](#-contributing)
+- 📄 [License](#-license)
+- 👨‍💻 [Author](#-author)
 
 ---
 
@@ -277,10 +277,18 @@ void loop() {
   <strong>RC car performing maneuvers</strong>
 </p>
 
-### Video Resources
+### 🎥 Video Resources
 
-- 🎥 [Testing Video](docs/testing_video.mp4) - Basic functionality demo
-- 🎥 **Full YouTube Demo** - Complete project walkthrough
+<p align="center">
+  <a href="docs/testing_video.mp4"><strong>📂 Testing Video</strong></a> &mdash; Basic functionality demo (local file)
+</p>
+
+<p align="center">
+  <strong>▶️ YouTube Demo:</strong><br>
+  <a href="https://youtu.be/lI9yIjI4Ih8?si=d67M4r0bCj9dotXv">
+    <img src="https://img.youtube.com/vi/lI9yIjI4Ih8/0.jpg" alt="Watch the video" width="480"/>
+  </a>
+</p>
 
 ### Performance Results
 
@@ -337,17 +345,22 @@ of this software and associated documentation files...
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100094278526223">
+  <a href="https://web.facebook.com/Nepotronics">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/nepotronics/">
+  <a href="https://www.instagram.com/sarpharaj_09/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@nepotronics">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
 <p align="center">
-  🌐 <strong>Channel:</strong> NepoTronics<br>
-  📧 <strong>Connect:</strong> <a href="https://www.facebook.com/profile.php?id=100094278526223">Facebook</a> • <a href="https://www.instagram.com/nepotronics/">Instagram</a>
+  🌐 <strong>Channel:</strong> <a href="https://www.youtube.com/@nepotronics">NepoTronics</a><br>
+  🔗 <strong>Connect:</strong>
+  <a href="https://web.facebook.com/Nepotronics">Facebook</a> •
+  <a href="https://www.instagram.com/sarpharaj_09/">Instagram</a>
 </p>
 
 ---
