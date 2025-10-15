@@ -67,11 +67,11 @@ The **NepoTronics Bluetooth RC Car** is a professional-grade wireless robotic ve
 | **Microcontroller** | 1× | Arduino Nano (ATmega328P) |
 | **Motor Driver** | 1× | L298N Dual H-Bridge |
 | **Bluetooth Module** | 1× | HC-05/HC-06 |
-| **DC Motors** | 2× | Geared DC motors (3-6V) |
+| **DC Motors** | 2× | Geared DC motors (For stering and rear drive) |
 | **Wheels** | 4× | Standard robot wheels |
 | **Battery** | 1× | 9V/12V Li-ion pack |
 | **LEDs** | 4× | White (front) & Red (back) |
-| **Chassis** | 1× | Acrylic/3D printed frame |
+| **Chassis** | 1× | Acrylic/3D printed/Wooden frame|
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
@@ -270,7 +270,7 @@ void loop() {
 ### Live Demonstration
 
 <p align="center">
-  <img src="docs/picture_inmotion.jpg" alt="RC Car in Action" width="600"/>
+  <img src="docs/Picture_inmotion.jpg" alt="RC Car in Action" width="600"/>
 </p>
 
 <p align="center">
@@ -392,5 +392,5 @@ of this software and associated documentation files...
 
 <p align="center">
   Made with ❤️ by <strong>NepoTronics</strong><br>
-  <sub>Last updated: March 2024</sub>
+  <sub>Last updated: October 2025/sub>
 </p>
