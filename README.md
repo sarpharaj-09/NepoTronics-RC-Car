@@ -392,5 +392,5 @@ of this software and associated documentation files...
 
 <p align="center">
   Made with ❤️ by <strong>NepoTronics</strong><br>
-  <sub>Last updated: October 2025/sub>
+  <sub>Last updated: October 2025</sub>
 </p>
